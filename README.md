@@ -14,11 +14,16 @@ Uma página HTML single-page que compara três planos de assinatura usando uma t
 - ✅ Célula mesclada com `colspan`
 - ✅ Metadados HTML corretos (`<title>`, `<meta charset>`, `<meta viewport>`)
 
+## 🌐 Acesse o Projeto
+
+- **Website ao vivo:** https://maisondev.github.io/roadmap-pricing-comparison-table
+- **Projeto no Roadmap.sh:** https://roadmap.sh/projects/pricing-comparison-table
+
 ## 🚀 Como Usar
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/roadmap-pricing-comparison-table.git
+git clone https://github.com/maisondev/roadmap-pricing-comparison-table.git
 ```
 
 2. Abra o arquivo `index.html` em seu navegador
